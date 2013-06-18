@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.11.15
-Release:          1
+Release:          2
 Summary:          Affymetrix Data for Demonstration Purpose
 Group:            Sciences/Mathematics
 License:          GPL (>= 2)
